@@ -38,10 +38,10 @@ BANNER_ART = """[bold cyan]
 BANNER_SUBTITLE = "[bold white]   Linux Threat Detection  [dim]•[/dim]  Security Intelligence  [dim]•[/dim]  IP Intelligence[/bold white]"
 BANNER_VERSION  = "[white]   v1.0.0  |  Linux[/white]"
 BANNER_META = """[dim]  ─────────────────────────────────────────────────────────────────────────
-   Developed by  : Andre J (Albin S) / https://avdre.pages.dev
+   Developed by  : Team Neural Nexus
    Platform      : Linux only  •  Python 3.11+
    License       : MIT
-   GitHub        : github.com/avdrevygh/zephyrveil
+   GitHub        : github.com/vylonvygh/ibmice
   ─────────────────────────────────────────────────────────────────────────[/dim]"""
 
 BANNER_TAGLINE = "[dim]   Type [bold white]help[/bold white] to see all commands  •  [bold white]use doctor[/bold white] to validate your setup[/dim]"
