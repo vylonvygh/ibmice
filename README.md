@@ -22,7 +22,8 @@ A powerful CLI security console for Linux — inspired by Metasploit's interface
 <!-- Take a screenshot, create a screenshots/ folder in this repo, upload it, then uncomment below -->
 
 > *Screenshot coming soon*
-<img src="bannpic.png">
+<img src="main.png">
+<img src="sync.png">
 <!--
 ![Zephyrveil in action](screenshots/zephyrveil-scan.png)
 -->
