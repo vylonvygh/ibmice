@@ -25,9 +25,9 @@ nvd        = "D455FAC1-BD95-4501-A794-F9563851F402"
 ipinfo     = "26453c66a8b208"
 
 [telegram]
-bot_token = ""
-chat_id   = ""
-enabled   = false
+bot_token = "8630831187:AAHWbjVLKKC2NJrTTHu0Trtc-FeY8NYa-ys"
+chat_id   = "8722076637"
+enabled   = true
 
 [reports]
 output_dir = "~/Documents/zephyrveil/"
