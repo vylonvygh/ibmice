@@ -76,7 +76,7 @@ source $HOME/.local/bin/env
 **Clone and run Zephyrveil:**
 
 ```bash
-git clone https://gitlab.com/vylonvy_gl/zephyrveil
+git clone https://github.com/vylonvygh/ibmice
 cd zephyrveil
 uv sync
 uv run zephyrveil
@@ -98,7 +98,7 @@ uv run zephyrveil
 If you prefer not to install uv or want to use standard Python tools:
 
 ```bash
-git clone https://gitlab.com/vylonvy_gl/zephyrveil
+git clone https://github.com/vylonvygh/ibmice
 cd zephyrveil
 
 # Create a virtual environment
@@ -316,10 +316,9 @@ pip install -r requirements.txt
 
 | | |
 |---|---|
-| **Developer** | Neural Nexus |
-| **Location** | The Grid |
+| **Developed by:** | Team Neural Nexus |
 | **Background** | Cybersecurity, Ethical Hacking, Linux, Privacy |
-| **Gitlab** | [gitlab.com/vylonvy_gl](https://gitlab.com/vylonvy_gl) |
+| **Github** | [github.com/vylonvygh](https://github.com/vylonvygh/ibmice) |
 
 > *Feel free to open an issue or suggest a feature.*
 
@@ -333,4 +332,4 @@ Free to use, modify, and distribute.
 
 ---
 
-*Zephyrveil v1.0.0 — Built for security professionals and learners alike.*
+*Zephyrveil v1.0.0 — Built for security professionals and learners alike by team Neural Nexus.*
