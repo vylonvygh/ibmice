@@ -1,0 +1,68 @@
+# ── Environment & Secrets ────────────────────────────────────────────────────
+.env
+*.env
+.env.*
+.env.local
+.env.production
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# ── Virtual Environments ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Build & Distribution ─────────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+.eggs/
+
+# ── uv ───────────────────────────────────────────────────────────────────────
+uv.lock
+
+# ── Database ─────────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Reports (generated output — never commit these) ──────────────────────────
+*.pdf
+zephyrveil_report_*.json
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+# *.log
+# *.log.*
+
+# ── IDE & Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Testing & Coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Type checking ────────────────────────────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+# ── GitHub Actions (optional — remove if you want CI/CD) ─────────────────────
+.github/

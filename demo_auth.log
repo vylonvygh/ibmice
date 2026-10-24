@@ -1,0 +1,317 @@
+Apr 19 00:01:03 viaav sshd[1021]: Server listening on 0.0.0.0 port 22.
+Apr 19 00:01:03 viaav sshd[1021]: Server listening on :: port 22.
+Apr 19 00:03:12 viaav sshd[1204]: Invalid user admin from 185.234.218.44 port 52341
+Apr 19 00:03:12 viaav sshd[1204]: Failed password for invalid user admin from 185.234.218.44 port 52341 ssh2
+Apr 19 00:03:13 viaav sshd[1205]: Invalid user root from 185.234.218.44 port 52342
+Apr 19 00:03:13 viaav sshd[1205]: Failed password for root from 185.234.218.44 port 52342 ssh2
+Apr 19 00:03:14 viaav sshd[1206]: Invalid user ubuntu from 185.234.218.44 port 52343
+Apr 19 00:03:14 viaav sshd[1206]: Failed password for invalid user ubuntu from 185.234.218.44 port 52343 ssh2
+Apr 19 00:03:15 viaav sshd[1207]: Invalid user pi from 185.234.218.44 port 52344
+Apr 19 00:03:15 viaav sshd[1207]: Failed password for invalid user pi from 185.234.218.44 port 52344 ssh2
+Apr 19 00:03:16 viaav sshd[1208]: Invalid user test from 185.234.218.44 port 52345
+Apr 19 00:03:16 viaav sshd[1208]: Failed password for invalid user test from 185.234.218.44 port 52345 ssh2
+Apr 19 00:03:17 viaav sshd[1209]: Invalid user oracle from 185.234.218.44 port 52346
+Apr 19 00:03:17 viaav sshd[1209]: Failed password for invalid user oracle from 185.234.218.44 port 52346 ssh2
+Apr 19 00:03:18 viaav sshd[1210]: Invalid user postgres from 185.234.218.44 port 52347
+Apr 19 00:03:18 viaav sshd[1210]: Failed password for invalid user postgres from 185.234.218.44 port 52347 ssh2
+Apr 19 00:05:22 viaav sshd[1301]: Failed password for root from 91.108.4.200 port 44123 ssh2
+Apr 19 00:05:23 viaav sshd[1302]: Failed password for root from 91.108.4.200 port 44124 ssh2
+Apr 19 00:05:24 viaav sshd[1303]: Failed password for root from 91.108.4.200 port 44125 ssh2
+Apr 19 00:05:25 viaav sshd[1304]: Failed password for root from 91.108.4.200 port 44126 ssh2
+Apr 19 00:05:26 viaav sshd[1305]: Failed password for root from 91.108.4.200 port 44127 ssh2
+Apr 19 00:07:01 viaav sshd[1401]: Invalid user albin from 45.33.32.156 port 39482
+Apr 19 00:07:01 viaav sshd[1401]: Failed password for invalid user albin from 45.33.32.156 port 39482 ssh2
+Apr 19 00:07:02 viaav sshd[1402]: Invalid user andre from 45.33.32.156 port 39483
+Apr 19 00:07:02 viaav sshd[1402]: Failed password for invalid user andre from 45.33.32.156 port 39483 ssh2
+Apr 19 00:07:03 viaav sshd[1403]: Invalid user john from 45.33.32.156 port 39484
+Apr 19 00:07:03 viaav sshd[1403]: Failed password for invalid user john from 45.33.32.156 port 39484 ssh2
+Apr 19 00:07:04 viaav sshd[1404]: Invalid user sarah from 45.33.32.156 port 39485
+Apr 19 00:07:04 viaav sshd[1404]: Failed password for invalid user sarah from 45.33.32.156 port 39485 ssh2
+Apr 19 00:07:05 viaav sshd[1405]: Invalid user michael from 45.33.32.156 port 39486
+Apr 19 00:07:05 viaav sshd[1405]: Failed password for invalid user michael from 45.33.32.156 port 39486 ssh2
+Apr 19 00:07:06 viaav sshd[1406]: Invalid user david from 45.33.32.156 port 39487
+Apr 19 00:07:06 viaav sshd[1406]: Failed password for invalid user david from 45.33.32.156 port 39487 ssh2
+Apr 19 00:07:07 viaav sshd[1407]: Invalid user deploy from 45.33.32.156 port 39488
+Apr 19 00:07:07 viaav sshd[1407]: Failed password for invalid user deploy from 45.33.32.156 port 39488 ssh2
+Apr 19 00:10:44 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=albin rhost= user=albin
+Apr 19 00:10:47 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=albin rhost= user=albin
+Apr 19 00:10:51 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=albin rhost= user=albin
+Apr 19 00:15:02 viaav sshd[1501]: Accepted password for albin from 192.168.1.100 port 54322 ssh2
+Apr 19 00:15:02 viaav sshd[1501]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 00:22:18 viaav sshd[1601]: Failed password for albin from 194.165.16.11 port 41221 ssh2
+Apr 19 00:22:19 viaav sshd[1602]: Failed password for albin from 194.165.16.11 port 41222 ssh2
+Apr 19 00:22:20 viaav sshd[1603]: Failed password for albin from 194.165.16.11 port 41223 ssh2
+Apr 19 00:22:21 viaav sshd[1604]: Failed password for albin from 194.165.16.11 port 41224 ssh2
+Apr 19 00:22:22 viaav sshd[1605]: Failed password for albin from 194.165.16.11 port 41225 ssh2
+Apr 19 00:22:23 viaav sshd[1606]: Failed password for albin from 194.165.16.11 port 41226 ssh2
+Apr 19 00:22:24 viaav sshd[1607]: Failed password for albin from 194.165.16.11 port 41227 ssh2
+Apr 19 00:22:25 viaav sshd[1608]: Failed password for albin from 194.165.16.11 port 41228 ssh2
+Apr 19 00:22:26 viaav sshd[1609]: Failed password for albin from 194.165.16.11 port 41229 ssh2
+Apr 19 00:22:27 viaav sshd[1610]: Failed password for albin from 194.165.16.11 port 41230 ssh2
+Apr 19 00:22:28 viaav sshd[1611]: Failed password for albin from 194.165.16.11 port 41231 ssh2
+Apr 19 00:22:29 viaav sshd[1612]: Failed password for albin from 194.165.16.11 port 41232 ssh2
+Apr 19 00:30:01 viaav CRON[1700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 00:30:01 viaav CRON[1700]: pam_unix(cron:session): session closed for user root
+Apr 19 01:03:44 viaav sshd[1801]: Invalid user admin from 222.186.30.112 port 60001
+Apr 19 01:03:44 viaav sshd[1801]: Failed password for invalid user admin from 222.186.30.112 port 60001 ssh2
+Apr 19 01:03:45 viaav sshd[1802]: Invalid user admin from 222.186.30.112 port 60002
+Apr 19 01:03:45 viaav sshd[1802]: Failed password for invalid user admin from 222.186.30.112 port 60002 ssh2
+Apr 19 01:03:46 viaav sshd[1803]: Invalid user admin from 222.186.30.112 port 60003
+Apr 19 01:03:46 viaav sshd[1803]: Failed password for invalid user admin from 222.186.30.112 port 60003 ssh2
+Apr 19 01:03:47 viaav sshd[1804]: Invalid user admin from 222.186.30.112 port 60004
+Apr 19 01:03:47 viaav sshd[1804]: Failed password for invalid user admin from 222.186.30.112 port 60004 ssh2
+Apr 19 01:03:48 viaav sshd[1805]: Invalid user admin from 222.186.30.112 port 60005
+Apr 19 01:03:48 viaav sshd[1805]: Failed password for invalid user admin from 222.186.30.112 port 60005 ssh2
+Apr 19 01:03:49 viaav sshd[1806]: Invalid user admin from 222.186.30.112 port 60006
+Apr 19 01:03:49 viaav sshd[1806]: Failed password for invalid user admin from 222.186.30.112 port 60006 ssh2
+Apr 19 01:15:33 viaav sshd[1901]: Invalid user guest from 103.99.0.122 port 33901
+Apr 19 01:15:33 viaav sshd[1901]: Failed password for invalid user guest from 103.99.0.122 port 33901 ssh2
+Apr 19 01:15:34 viaav sshd[1902]: Invalid user nagios from 103.99.0.122 port 33902
+Apr 19 01:15:34 viaav sshd[1902]: Failed password for invalid user nagios from 103.99.0.122 port 33902 ssh2
+Apr 19 01:15:35 viaav sshd[1903]: Invalid user backup from 103.99.0.122 port 33903
+Apr 19 01:15:35 viaav sshd[1903]: Failed password for invalid user backup from 103.99.0.122 port 33903 ssh2
+Apr 19 01:15:36 viaav sshd[1904]: Invalid user ftpuser from 103.99.0.122 port 33904
+Apr 19 01:15:36 viaav sshd[1904]: Failed password for invalid user ftpuser from 103.99.0.122 port 33904 ssh2
+Apr 19 01:15:37 viaav sshd[1905]: Invalid user git from 103.99.0.122 port 33905
+Apr 19 01:15:37 viaav sshd[1905]: Failed password for invalid user git from 103.99.0.122 port 33905 ssh2
+Apr 19 02:00:11 viaav sshd[2001]: Failed password for root from 185.234.218.44 port 52400 ssh2
+Apr 19 02:00:12 viaav sshd[2002]: Failed password for root from 185.234.218.44 port 52401 ssh2
+Apr 19 02:00:13 viaav sshd[2003]: Failed password for root from 185.234.218.44 port 52402 ssh2
+Apr 19 02:11:05 viaav sudo: albin : TTY=pts/1 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/pacman -Syu
+Apr 19 02:22:44 viaav sshd[2101]: Invalid user user from 109.248.9.17 port 48801
+Apr 19 02:22:44 viaav sshd[2101]: Failed password for invalid user user from 109.248.9.17 port 48801 ssh2
+Apr 19 02:22:45 viaav sshd[2102]: Invalid user user1 from 109.248.9.17 port 48802
+Apr 19 02:22:45 viaav sshd[2102]: Failed password for invalid user user1 from 109.248.9.17 port 48802 ssh2
+Apr 19 02:22:46 viaav sshd[2103]: Invalid user user2 from 109.248.9.17 port 48803
+Apr 19 02:22:46 viaav sshd[2103]: Failed password for invalid user user2 from 109.248.9.17 port 48803 ssh2
+Apr 19 02:22:47 viaav sshd[2104]: Invalid user testuser from 109.248.9.17 port 48804
+Apr 19 02:22:47 viaav sshd[2104]: Failed password for invalid user testuser from 109.248.9.17 port 48804 ssh2
+Apr 19 02:22:48 viaav sshd[2105]: Invalid user webmaster from 109.248.9.17 port 48805
+Apr 19 02:22:48 viaav sshd[2105]: Failed password for invalid user webmaster from 109.248.9.17 port 48805 ssh2
+Apr 19 02:22:49 viaav sshd[2106]: Invalid user www-data from 109.248.9.17 port 48806
+Apr 19 02:22:49 viaav sshd[2106]: Failed password for invalid user www-data from 109.248.9.17 port 48806 ssh2
+Apr 19 02:22:50 viaav sshd[2107]: Invalid user ubuntu from 109.248.9.17 port 48807
+Apr 19 02:22:50 viaav sshd[2107]: Failed password for invalid user ubuntu from 109.248.9.17 port 48807 ssh2
+Apr 19 03:01:19 viaav sshd[2201]: Failed password for albin from 80.82.77.139 port 55001 ssh2
+Apr 19 03:01:20 viaav sshd[2202]: Failed password for albin from 80.82.77.139 port 55002 ssh2
+Apr 19 03:01:21 viaav sshd[2203]: Failed password for albin from 80.82.77.139 port 55003 ssh2
+Apr 19 03:01:22 viaav sshd[2204]: Failed password for albin from 80.82.77.139 port 55004 ssh2
+Apr 19 03:01:23 viaav sshd[2205]: Failed password for albin from 80.82.77.139 port 55005 ssh2
+Apr 19 03:01:24 viaav sshd[2206]: Failed password for albin from 80.82.77.139 port 55006 ssh2
+Apr 19 03:30:00 viaav CRON[2300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 03:30:00 viaav CRON[2300]: pam_unix(cron:session): session closed for user root
+Apr 19 04:14:02 viaav sshd[2401]: Invalid user admin from 179.43.128.250 port 62201
+Apr 19 04:14:02 viaav sshd[2401]: Failed password for invalid user admin from 179.43.128.250 port 62201 ssh2
+Apr 19 04:14:03 viaav sshd[2402]: Invalid user administrator from 179.43.128.250 port 62202
+Apr 19 04:14:03 viaav sshd[2402]: Failed password for invalid user administrator from 179.43.128.250 port 62202 ssh2
+Apr 19 04:14:04 viaav sshd[2403]: Invalid user root from 179.43.128.250 port 62203
+Apr 19 04:14:04 viaav sshd[2403]: Failed password for invalid user root from 179.43.128.250 port 62203 ssh2
+Apr 19 04:14:05 viaav sshd[2404]: Invalid user mysql from 179.43.128.250 port 62204
+Apr 19 04:14:05 viaav sshd[2404]: Failed password for invalid user mysql from 179.43.128.250 port 62204 ssh2
+Apr 19 04:14:06 viaav sshd[2405]: Invalid user postgres from 179.43.128.250 port 62205
+Apr 19 04:14:06 viaav sshd[2405]: Failed password for invalid user postgres from 179.43.128.250 port 62205 ssh2
+Apr 19 04:14:07 viaav sshd[2406]: Invalid user redis from 179.43.128.250 port 62206
+Apr 19 04:14:07 viaav sshd[2406]: Failed password for invalid user redis from 179.43.128.250 port 62206 ssh2
+Apr 19 04:14:08 viaav sshd[2407]: Invalid user elasticsearch from 179.43.128.250 port 62207
+Apr 19 04:14:08 viaav sshd[2407]: Failed password for invalid user elasticsearch from 179.43.128.250 port 62207 ssh2
+Apr 19 04:14:09 viaav sshd[2408]: Invalid user hadoop from 179.43.128.250 port 62208
+Apr 19 04:14:09 viaav sshd[2408]: Failed password for invalid user hadoop from 179.43.128.250 port 62208 ssh2
+Apr 19 04:55:01 viaav sshd[2501]: Accepted publickey for albin from 192.168.1.100 port 54400 ssh2
+Apr 19 04:55:01 viaav sshd[2501]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 05:02:33 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/2 ruser=albin rhost= user=albin
+Apr 19 05:02:38 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/2 ruser=albin rhost= user=albin
+Apr 19 05:11:44 viaav sshd[2601]: Failed password for root from 5.188.86.24 port 43101 ssh2
+Apr 19 05:11:45 viaav sshd[2602]: Failed password for root from 5.188.86.24 port 43102 ssh2
+Apr 19 05:11:46 viaav sshd[2603]: Failed password for root from 5.188.86.24 port 43103 ssh2
+Apr 19 05:11:47 viaav sshd[2604]: Failed password for root from 5.188.86.24 port 43104 ssh2
+Apr 19 05:11:48 viaav sshd[2605]: Failed password for root from 5.188.86.24 port 43105 ssh2
+Apr 19 05:11:49 viaav sshd[2606]: Failed password for root from 5.188.86.24 port 43106 ssh2
+Apr 19 05:11:50 viaav sshd[2607]: Failed password for root from 5.188.86.24 port 43107 ssh2
+Apr 19 05:11:51 viaav sshd[2608]: Failed password for root from 5.188.86.24 port 43108 ssh2
+Apr 19 05:30:00 viaav CRON[2700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 05:30:00 viaav CRON[2700]: pam_unix(cron:session): session closed for user root
+Apr 19 06:00:19 viaav sshd[2801]: Invalid user deploy from 193.32.162.157 port 51001
+Apr 19 06:00:19 viaav sshd[2801]: Failed password for invalid user deploy from 193.32.162.157 port 51001 ssh2
+Apr 19 06:00:20 viaav sshd[2802]: Invalid user jenkins from 193.32.162.157 port 51002
+Apr 19 06:00:20 viaav sshd[2802]: Failed password for invalid user jenkins from 193.32.162.157 port 51002 ssh2
+Apr 19 06:00:21 viaav sshd[2803]: Invalid user ansible from 193.32.162.157 port 51003
+Apr 19 06:00:21 viaav sshd[2803]: Failed password for invalid user ansible from 193.32.162.157 port 51003 ssh2
+Apr 19 06:00:22 viaav sshd[2804]: Invalid user vagrant from 193.32.162.157 port 51004
+Apr 19 06:00:22 viaav sshd[2804]: Failed password for invalid user vagrant from 193.32.162.157 port 51004 ssh2
+Apr 19 06:00:23 viaav sshd[2805]: Invalid user docker from 193.32.162.157 port 51005
+Apr 19 06:00:23 viaav sshd[2805]: Failed password for invalid user docker from 193.32.162.157 port 51005 ssh2
+Apr 19 06:22:01 viaav sshd[2901]: Failed password for albin from 46.161.27.254 port 37801 ssh2
+Apr 19 06:22:02 viaav sshd[2902]: Failed password for albin from 46.161.27.254 port 37802 ssh2
+Apr 19 06:22:03 viaav sshd[2903]: Failed password for albin from 46.161.27.254 port 37803 ssh2
+Apr 19 06:22:04 viaav sshd[2904]: Failed password for albin from 46.161.27.254 port 37804 ssh2
+Apr 19 06:22:05 viaav sshd[2905]: Failed password for albin from 46.161.27.254 port 37805 ssh2
+Apr 19 06:22:06 viaav sshd[2906]: Failed password for albin from 46.161.27.254 port 37806 ssh2
+Apr 19 06:22:07 viaav sshd[2907]: Failed password for albin from 46.161.27.254 port 37807 ssh2
+Apr 19 06:22:08 viaav sshd[2908]: Failed password for albin from 46.161.27.254 port 37808 ssh2
+Apr 19 06:22:09 viaav sshd[2909]: Failed password for albin from 46.161.27.254 port 37809 ssh2
+Apr 19 06:22:10 viaav sshd[2910]: Failed password for albin from 46.161.27.254 port 37810 ssh2
+Apr 19 06:22:11 viaav sshd[2911]: Failed password for albin from 46.161.27.254 port 37811 ssh2
+Apr 19 07:15:02 viaav sudo: albin : TTY=pts/0 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/systemctl status sshd
+Apr 19 07:33:19 viaav sshd[3001]: Invalid user info from 218.92.0.186 port 29001
+Apr 19 07:33:19 viaav sshd[3001]: Failed password for invalid user info from 218.92.0.186 port 29001 ssh2
+Apr 19 07:33:20 viaav sshd[3002]: Invalid user test from 218.92.0.186 port 29002
+Apr 19 07:33:20 viaav sshd[3002]: Failed password for invalid user test from 218.92.0.186 port 29002 ssh2
+Apr 19 07:33:21 viaav sshd[3003]: Invalid user test1 from 218.92.0.186 port 29003
+Apr 19 07:33:21 viaav sshd[3003]: Failed password for invalid user test1 from 218.92.0.186 port 29003 ssh2
+Apr 19 07:33:22 viaav sshd[3004]: Invalid user test2 from 218.92.0.186 port 29004
+Apr 19 07:33:22 viaav sshd[3004]: Failed password for invalid user test2 from 218.92.0.186 port 29004 ssh2
+Apr 19 07:33:23 viaav sshd[3005]: Invalid user abc from 218.92.0.186 port 29005
+Apr 19 07:33:23 viaav sshd[3005]: Failed password for invalid user abc from 218.92.0.186 port 29005 ssh2
+Apr 19 08:00:00 viaav CRON[3100]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 08:00:00 viaav CRON[3100]: pam_unix(cron:session): session closed for user root
+Apr 19 08:12:44 viaav sshd[3201]: Accepted publickey for albin from 192.168.1.100 port 54500 ssh2
+Apr 19 08:12:44 viaav sshd[3201]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 08:14:01 viaav sudo: albin : TTY=pts/1 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/journalctl -n 100
+Apr 19 08:30:55 viaav sshd[3301]: Failed password for root from 185.234.218.44 port 52500 ssh2
+Apr 19 08:30:56 viaav sshd[3302]: Failed password for root from 185.234.218.44 port 52501 ssh2
+Apr 19 08:30:57 viaav sshd[3303]: Failed password for root from 185.234.218.44 port 52502 ssh2
+Apr 19 08:30:58 viaav sshd[3304]: Failed password for root from 185.234.218.44 port 52503 ssh2
+Apr 19 09:01:33 viaav sshd[3401]: Invalid user ftp from 77.247.108.22 port 34501
+Apr 19 09:01:33 viaav sshd[3401]: Failed password for invalid user ftp from 77.247.108.22 port 34501 ssh2
+Apr 19 09:01:34 viaav sshd[3402]: Invalid user anonymous from 77.247.108.22 port 34502
+Apr 19 09:01:34 viaav sshd[3402]: Failed password for invalid user anonymous from 77.247.108.22 port 34502 ssh2
+Apr 19 09:01:35 viaav sshd[3403]: Invalid user nobody from 77.247.108.22 port 34503
+Apr 19 09:01:35 viaav sshd[3403]: Failed password for invalid user nobody from 77.247.108.22 port 34503 ssh2
+Apr 19 09:01:36 viaav sshd[3404]: Invalid user mail from 77.247.108.22 port 34504
+Apr 19 09:01:36 viaav sshd[3404]: Failed password for invalid user mail from 77.247.108.22 port 34504 ssh2
+Apr 19 09:01:37 viaav sshd[3405]: Invalid user news from 77.247.108.22 port 34505
+Apr 19 09:01:37 viaav sshd[3405]: Failed password for invalid user news from 77.247.108.22 port 34505 ssh2
+Apr 19 09:45:02 viaav sshd[3501]: Failed password for albin from 91.108.4.200 port 44200 ssh2
+Apr 19 09:45:03 viaav sshd[3502]: Failed password for albin from 91.108.4.200 port 44201 ssh2
+Apr 19 09:45:04 viaav sshd[3503]: Failed password for albin from 91.108.4.200 port 44202 ssh2
+Apr 19 09:45:05 viaav sshd[3504]: Failed password for albin from 91.108.4.200 port 44203 ssh2
+Apr 19 09:45:06 viaav sshd[3505]: Failed password for albin from 91.108.4.200 port 44204 ssh2
+Apr 19 10:00:00 viaav CRON[3600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 10:00:00 viaav CRON[3600]: pam_unix(cron:session): session closed for user root
+Apr 19 10:22:11 viaav sshd[3701]: Invalid user support from 159.203.75.100 port 56701
+Apr 19 10:22:11 viaav sshd[3701]: Failed password for invalid user support from 159.203.75.100 port 56701 ssh2
+Apr 19 10:22:12 viaav sshd[3702]: Invalid user helpdesk from 159.203.75.100 port 56702
+Apr 19 10:22:12 viaav sshd[3702]: Failed password for invalid user helpdesk from 159.203.75.100 port 56702 ssh2
+Apr 19 10:22:13 viaav sshd[3703]: Invalid user operator from 159.203.75.100 port 56703
+Apr 19 10:22:13 viaav sshd[3703]: Failed password for invalid user operator from 159.203.75.100 port 56703 ssh2
+Apr 19 10:22:14 viaav sshd[3704]: Invalid user user from 159.203.75.100 port 56704
+Apr 19 10:22:14 viaav sshd[3704]: Failed password for invalid user user from 159.203.75.100 port 56704 ssh2
+Apr 19 10:22:15 viaav sshd[3705]: Invalid user pi from 159.203.75.100 port 56705
+Apr 19 10:22:15 viaav sshd[3705]: Failed password for invalid user pi from 159.203.75.100 port 56705 ssh2
+Apr 19 10:22:16 viaav sshd[3706]: Invalid user ubuntu from 159.203.75.100 port 56706
+Apr 19 10:22:16 viaav sshd[3706]: Failed password for invalid user ubuntu from 159.203.75.100 port 56706 ssh2
+Apr 19 11:05:44 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=albin rhost= user=albin
+Apr 19 11:33:01 viaav sshd[3801]: Accepted password for albin from 192.168.1.100 port 54600 ssh2
+Apr 19 11:33:01 viaav sshd[3801]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 11:44:22 viaav sshd[3901]: Failed password for root from 222.186.30.112 port 60100 ssh2
+Apr 19 11:44:23 viaav sshd[3902]: Failed password for root from 222.186.30.112 port 60101 ssh2
+Apr 19 11:44:24 viaav sshd[3903]: Failed password for root from 222.186.30.112 port 60102 ssh2
+Apr 19 11:44:25 viaav sshd[3904]: Failed password for root from 222.186.30.112 port 60103 ssh2
+Apr 19 11:44:26 viaav sshd[3905]: Failed password for root from 222.186.30.112 port 60104 ssh2
+Apr 19 12:00:00 viaav CRON[4000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 12:00:00 viaav CRON[4000]: pam_unix(cron:session): session closed for user root
+Apr 19 12:15:09 viaav sshd[4101]: Invalid user ec2-user from 167.71.13.196 port 48101
+Apr 19 12:15:09 viaav sshd[4101]: Failed password for invalid user ec2-user from 167.71.13.196 port 48101 ssh2
+Apr 19 12:15:10 viaav sshd[4102]: Invalid user centos from 167.71.13.196 port 48102
+Apr 19 12:15:10 viaav sshd[4102]: Failed password for invalid user centos from 167.71.13.196 port 48102 ssh2
+Apr 19 12:15:11 viaav sshd[4103]: Invalid user fedora from 167.71.13.196 port 48103
+Apr 19 12:15:11 viaav sshd[4103]: Failed password for invalid user fedora from 167.71.13.196 port 48103 ssh2
+Apr 19 12:15:12 viaav sshd[4104]: Invalid user arch from 167.71.13.196 port 48104
+Apr 19 12:15:12 viaav sshd[4104]: Failed password for invalid user arch from 167.71.13.196 port 48104 ssh2
+Apr 19 12:15:13 viaav sshd[4105]: Invalid user kali from 167.71.13.196 port 48105
+Apr 19 12:15:13 viaav sshd[4105]: Failed password for invalid user kali from 167.71.13.196 port 48105 ssh2
+Apr 19 13:02:44 viaav sudo: albin : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Apr 19 13:30:19 viaav sshd[4201]: Failed password for albin from 5.188.86.24 port 43200 ssh2
+Apr 19 13:30:20 viaav sshd[4202]: Failed password for albin from 5.188.86.24 port 43201 ssh2
+Apr 19 13:30:21 viaav sshd[4203]: Failed password for albin from 5.188.86.24 port 43202 ssh2
+Apr 19 13:30:22 viaav sshd[4204]: Failed password for albin from 5.188.86.24 port 43203 ssh2
+Apr 19 13:30:23 viaav sshd[4205]: Failed password for albin from 5.188.86.24 port 43204 ssh2
+Apr 19 13:30:24 viaav sshd[4206]: Failed password for albin from 5.188.86.24 port 43205 ssh2
+Apr 19 14:00:00 viaav CRON[4300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 14:00:00 viaav CRON[4300]: pam_unix(cron:session): session closed for user root
+Apr 19 14:11:33 viaav sshd[4401]: Invalid user pi from 36.110.228.254 port 44401
+Apr 19 14:11:33 viaav sshd[4401]: Failed password for invalid user pi from 36.110.228.254 port 44401 ssh2
+Apr 19 14:11:34 viaav sshd[4402]: Invalid user raspbian from 36.110.228.254 port 44402
+Apr 19 14:11:34 viaav sshd[4402]: Failed password for invalid user raspbian from 36.110.228.254 port 44402 ssh2
+Apr 19 14:11:35 viaav sshd[4403]: Invalid user pi from 36.110.228.254 port 44403
+Apr 19 14:11:35 viaav sshd[4403]: Failed password for invalid user pi from 36.110.228.254 port 44403 ssh2
+Apr 19 14:11:36 viaav sshd[4404]: Invalid user admin from 36.110.228.254 port 44404
+Apr 19 14:11:36 viaav sshd[4404]: Failed password for invalid user admin from 36.110.228.254 port 44404 ssh2
+Apr 19 14:11:37 viaav sshd[4405]: Invalid user root from 36.110.228.254 port 44405
+Apr 19 14:11:37 viaav sshd[4405]: Failed password for invalid user root from 36.110.228.254 port 44405 ssh2
+Apr 19 15:05:22 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/1 ruser=albin rhost= user=albin
+Apr 19 15:05:25 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/1 ruser=albin rhost= user=albin
+Apr 19 15:30:44 viaav sshd[4501]: Failed password for root from 80.82.77.139 port 55100 ssh2
+Apr 19 15:30:45 viaav sshd[4502]: Failed password for root from 80.82.77.139 port 55101 ssh2
+Apr 19 15:30:46 viaav sshd[4503]: Failed password for root from 80.82.77.139 port 55102 ssh2
+Apr 19 16:00:00 viaav CRON[4600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 16:00:00 viaav CRON[4600]: pam_unix(cron:session): session closed for user root
+Apr 19 16:22:01 viaav sshd[4701]: Invalid user steam from 171.25.193.77 port 61001
+Apr 19 16:22:01 viaav sshd[4701]: Failed password for invalid user steam from 171.25.193.77 port 61001 ssh2
+Apr 19 16:22:02 viaav sshd[4702]: Invalid user minecraft from 171.25.193.77 port 61002
+Apr 19 16:22:02 viaav sshd[4702]: Failed password for invalid user minecraft from 171.25.193.77 port 61002 ssh2
+Apr 19 16:22:03 viaav sshd[4703]: Invalid user server from 171.25.193.77 port 61003
+Apr 19 16:22:03 viaav sshd[4703]: Failed password for invalid user server from 171.25.193.77 port 61003 ssh2
+Apr 19 16:22:04 viaav sshd[4704]: Invalid user ts3 from 171.25.193.77 port 61004
+Apr 19 16:22:04 viaav sshd[4704]: Failed password for invalid user ts3 from 171.25.193.77 port 61004 ssh2
+Apr 19 17:14:55 viaav sshd[4801]: Accepted publickey for albin from 192.168.1.100 port 54700 ssh2
+Apr 19 17:14:55 viaav sshd[4801]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 17:15:01 viaav sudo: albin : TTY=pts/0 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/uv run zephyrveil
+Apr 19 17:44:03 viaav sshd[4901]: Failed password for albin from 185.234.218.44 port 52600 ssh2
+Apr 19 17:44:04 viaav sshd[4902]: Failed password for albin from 185.234.218.44 port 52601 ssh2
+Apr 19 17:44:05 viaav sshd[4903]: Failed password for albin from 185.234.218.44 port 52602 ssh2
+Apr 19 17:44:06 viaav sshd[4904]: Failed password for albin from 185.234.218.44 port 52603 ssh2
+Apr 19 17:44:07 viaav sshd[4905]: Failed password for albin from 185.234.218.44 port 52604 ssh2
+Apr 19 18:00:00 viaav CRON[5000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 18:00:00 viaav CRON[5000]: pam_unix(cron:session): session closed for user root
+Apr 19 18:33:21 viaav sshd[5101]: Invalid user admin from 194.165.16.11 port 41300 ssh2
+Apr 19 18:33:21 viaav sshd[5101]: Failed password for invalid user admin from 194.165.16.11 port 41300 ssh2
+Apr 19 18:33:22 viaav sshd[5102]: Invalid user root from 194.165.16.11 port 41301 ssh2
+Apr 19 18:33:22 viaav sshd[5102]: Failed password for root from 194.165.16.11 port 41301 ssh2
+Apr 19 18:33:23 viaav sshd[5103]: Invalid user ubuntu from 194.165.16.11 port 41302 ssh2
+Apr 19 18:33:23 viaav sshd[5103]: Failed password for invalid user ubuntu from 194.165.16.11 port 41302 ssh2
+Apr 19 18:33:24 viaav sshd[5104]: Invalid user debian from 194.165.16.11 port 41303 ssh2
+Apr 19 18:33:24 viaav sshd[5104]: Failed password for invalid user debian from 194.165.16.11 port 41303 ssh2
+Apr 19 18:33:25 viaav sshd[5105]: Invalid user centos from 194.165.16.11 port 41304 ssh2
+Apr 19 18:33:25 viaav sshd[5105]: Failed password for invalid user centos from 194.165.16.11 port 41304 ssh2
+Apr 19 19:01:44 viaav sudo: albin : TTY=pts/0 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/firewall-cmd --list-all
+Apr 19 19:22:55 viaav sshd[5201]: Failed password for root from 103.99.0.122 port 33999 ssh2
+Apr 19 19:22:56 viaav sshd[5202]: Failed password for root from 103.99.0.122 port 34000 ssh2
+Apr 19 19:22:57 viaav sshd[5203]: Failed password for root from 103.99.0.122 port 34001 ssh2
+Apr 19 19:22:58 viaav sshd[5204]: Failed password for root from 103.99.0.122 port 34002 ssh2
+Apr 19 19:22:59 viaav sshd[5205]: Failed password for root from 103.99.0.122 port 34003 ssh2
+Apr 19 19:23:00 viaav sshd[5206]: Failed password for root from 103.99.0.122 port 34004 ssh2
+Apr 19 20:00:00 viaav CRON[5300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 20:00:00 viaav CRON[5300]: pam_unix(cron:session): session closed for user root
+Apr 19 20:14:02 viaav sshd[5401]: Invalid user admin from 45.33.32.156 port 39500
+Apr 19 20:14:02 viaav sshd[5401]: Failed password for invalid user admin from 45.33.32.156 port 39500 ssh2
+Apr 19 20:14:03 viaav sshd[5402]: Invalid user root from 45.33.32.156 port 39501
+Apr 19 20:14:03 viaav sshd[5402]: Failed password for root from 45.33.32.156 port 39501 ssh2
+Apr 19 20:14:04 viaav sshd[5403]: Invalid user user from 45.33.32.156 port 39502
+Apr 19 20:14:04 viaav sshd[5403]: Failed password for invalid user user from 45.33.32.156 port 39502 ssh2
+Apr 19 21:03:18 viaav sudo: albin : authentication failure ; logname= uid=1000 euid=0 tty=/dev/pts/3 ruser=albin rhost= user=albin
+Apr 19 21:44:09 viaav sshd[5501]: Failed password for albin from 222.186.30.112 port 60200 ssh2
+Apr 19 21:44:10 viaav sshd[5502]: Failed password for albin from 222.186.30.112 port 60201 ssh2
+Apr 19 21:44:11 viaav sshd[5503]: Failed password for albin from 222.186.30.112 port 60202 ssh2
+Apr 19 21:44:12 viaav sshd[5504]: Failed password for albin from 222.186.30.112 port 60203 ssh2
+Apr 19 21:44:13 viaav sshd[5505]: Failed password for albin from 222.186.30.112 port 60204 ssh2
+Apr 19 22:00:00 viaav CRON[5600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 19 22:00:00 viaav CRON[5600]: pam_unix(cron:session): session closed for user root
+Apr 19 22:30:44 viaav sshd[5701]: Accepted publickey for albin from 192.168.1.100 port 54800 ssh2
+Apr 19 22:30:44 viaav sshd[5701]: pam_unix(sshd:session): session opened for user albin by (uid=0)
+Apr 19 22:31:02 viaav sudo: albin : TTY=pts/0 ; PWD=/home/albin ; USER=root ; COMMAND=/usr/bin/uv run zephyrveil --scan
+Apr 19 23:01:33 viaav sshd[5801]: Invalid user admin from 179.43.128.250 port 62300
+Apr 19 23:01:33 viaav sshd[5801]: Failed password for invalid user admin from 179.43.128.250 port 62300 ssh2
+Apr 19 23:01:34 viaav sshd[5802]: Invalid user root from 179.43.128.250 port 62301
+Apr 19 23:01:34 viaav sshd[5802]: Failed password for root from 179.43.128.250 port 62301 ssh2
+Apr 19 23:01:35 viaav sshd[5803]: Invalid user test from 179.43.128.250 port 62302
+Apr 19 23:01:35 viaav sshd[5803]: Failed password for invalid user test from 179.43.128.250 port 62302 ssh2
+Apr 19 23:01:36 viaav sshd[5804]: Invalid user admin1 from 179.43.128.250 port 62303
+Apr 19 23:01:36 viaav sshd[5804]: Failed password for invalid user admin1 from 179.43.128.250 port 62303 ssh2
+Apr 19 23:01:37 viaav sshd[5805]: Invalid user admin2 from 179.43.128.250 port 62304
+Apr 19 23:01:37 viaav sshd[5805]: Failed password for invalid user admin2 from 179.43.128.250 port 62304 ssh2
+Apr 19 23:44:01 viaav sshd[5901]: Failed password for root from 185.234.218.44 port 52700 ssh2
+Apr 19 23:44:02 viaav sshd[5902]: Failed password for root from 185.234.218.44 port 52701 ssh2
+Apr 19 23:44:03 viaav sshd[5903]: Failed password for root from 185.234.218.44 port 52702 ssh2
+Apr 19 23:44:04 viaav sshd[5904]: Failed password for root from 185.234.218.44 port 52703 ssh2
+Apr 19 23:59:59 viaav sshd[6000]: Connection closed by 185.234.218.44 port 52800 [preauth]
