@@ -315,7 +315,7 @@ pip install -r requirements.txt
 
 | | |
 |---|---|
-| **Developer** | Andre J (Albin S) / @vylonvy_gl |
+| **Developer** | Neural Nexus |
 | **Location** | The Grid |
 | **Background** | Cybersecurity, Ethical Hacking, Linux, Privacy |
 | **Gitlab** | [gitlab.com/vylonvy_gl](https://gitlab.com/vylonvy_gl) |
